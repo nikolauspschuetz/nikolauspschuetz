@@ -32,4 +32,4 @@ Fixes and tests merged into projects I rely on — verified fails-before / passe
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/nikolaus-schuetz-49039737) · Building AI-SaaS + platform infrastructure
+📫 [nikolauspschuetz.dev](https://nikolauspschuetz.dev) · [LinkedIn](https://www.linkedin.com/in/nikolaus-schuetz-49039737) · Building AI-SaaS + platform infrastructure
