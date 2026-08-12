@@ -43,7 +43,7 @@ Fixes and tests merged into projects I rely on — verified fails-before / passe
 - **…and 30+ more** across the Python, Go, Rust, and JS/TS ecosystems
 
 > [!NOTE]
-> Tests for `git merge-base --is-ancestor` accepted into **git core** — queued in `next`, marked *"will merge to master"* by the maintainer.
+> Tests for `git merge-base --is-ancestor` **[merged into git core](https://github.com/git/git/commit/89454a60ed3c)** — on `master`, integrated by Junio C Hamano.
 
 ## 🧰 Toolbox
 
